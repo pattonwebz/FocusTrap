@@ -1,0 +1,26 @@
+{
+  "name": "@pattonwebz/focustrap",
+  "version": "1.0.0",
+  "description": "A simple, pure vanilla JS, focus trap.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pattonwebz/FocusTrap.git"
+  },
+  "keywords": [
+    "focustrap",
+    "focus",
+    "trap",
+    "accessibility",
+    "a11y"
+  ],
+  "author": "William Patton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pattonwebz/FocusTrap/issues"
+  },
+  "homepage": "https://github.com/pattonwebz/FocusTrap#readme"
+}
