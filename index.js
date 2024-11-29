@@ -99,4 +99,4 @@ class FocusTrap {
   }
 }
 
-export default FocusTrap;
+module.exports = FocusTrap;
