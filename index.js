@@ -46,7 +46,7 @@ class FocusTrap {
       : this.firstFocusableElement;
 
     if (this.initialFocus) {
-      if (!this.focusableElements.includes(this.initialFocus)) {
+      if (!Array.from(this.focusableElements).includes(this.initialFocus)) {
         throw new Error('The initial focus element must be within the region.');
       }
     }
