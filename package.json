@@ -1,6 +1,6 @@
 {
   "name": "@pattonwebz/focustrap",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple, pure vanilla JS, focus trap.",
   "main": "index.js",
   "scripts": {
